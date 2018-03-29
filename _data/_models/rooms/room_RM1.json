@@ -1,0 +1,48 @@
+{
+  "name_localized": {
+    "en": "Superior Double or Twin Room",
+    "es": "Superior Double or Twin Room"
+  },
+  "short_description_localized": {
+    "en": "Superior Double or Twin Room",
+    "es": "Superior Double or Twin Room"
+  },
+  "description_localized": {
+    "en": "<strong>1 Double Bed</strong><br />161-sq-foot (15-sq-meter) room with city views<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Food & Drink</b> - Room service and minibar<br /><b>Bathroom</b> - Private bathroom, a hair dryer, and a shower/tub combination<br /><b>Practical</b> - Safe, desk, and phone; cribs/infant beds available on request<br /><b>Comfort</b> - Air conditioning<br /><b>Need to Know</b> - No rollaway/extra beds available<br />Non-Smoking<br />&nbsp;",
+    "es": "<strong>1 Double Bed</strong><br />161-sq-foot (15-sq-meter) room with city views<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Food & Drink</b> - Room service and minibar<br /><b>Bathroom</b> - Private bathroom, a hair dryer, and a shower/tub combination<br /><b>Practical</b> - Safe, desk, and phone; cribs/infant beds available on request<br /><b>Comfort</b> - Air conditioning<br /><b>Need to Know</b> - No rollaway/extra beds available<br />Non-Smoking<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Non-Smoking"
+      }
+    ],
+    "es": [
+      {
+        "name": "Non-Smoking"
+      }
+    ]
+  },
+  "images": [
+    {
+      "caption": "Image 1",
+      "description": "",
+      "alt": "Image 1",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1270/68494_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 2",
+      "description": "",
+      "alt": "Image 2",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1270/68495_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 3",
+      "description": "",
+      "alt": "Image 3",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1270/68497_1_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "RM1",
+  "order": 1
+}

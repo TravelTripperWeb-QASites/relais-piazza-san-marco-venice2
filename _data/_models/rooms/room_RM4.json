@@ -1,0 +1,31 @@
+{
+  "name_localized": {
+    "en": "Deluxe Double Room (St. Mark view)",
+    "es": "Deluxe Double Room (St. Mark view)"
+  },
+  "short_description_localized": {
+    "en": "Deluxe Double Room (St. Mark view)",
+    "es": "Deluxe Double Room (St. Mark view)"
+  },
+  "description_localized": {
+    "en": "<strong>1 Double Bed</strong><br />215-sq-foot (20-sq-meter) room with sea views<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Food & Drink</b> - Room service and minibar<br /><b>Bathroom</b> - Hair dryer<br /><b>Practical</b> - Safe, desk, and phone; cribs/infant beds available on request<br /><b>Comfort</b> - Air conditioning<br />Non-Smoking<br />&nbsp;",
+    "es": "<strong>1 Double Bed</strong><br />215-sq-foot (20-sq-meter) room with sea views<br /><br /><b>Internet</b> - Free WiFi <br /> <b>Food & Drink</b> - Room service and minibar<br /><b>Bathroom</b> - Hair dryer<br /><b>Practical</b> - Safe, desk, and phone; cribs/infant beds available on request<br /><b>Comfort</b> - Air conditioning<br />Non-Smoking<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Non-Smoking"
+      }
+    ],
+    "es": [
+      {
+        "name": "Non-Smoking"
+      }
+    ]
+  },
+  "images": [
+
+  ],
+  "reztrip_room_id": "RM4",
+  "order": 4
+}

@@ -1,4 +1,5 @@
 {
-  "name": "Fully-equiped Gym",
-  "order": 1
+  "name": "Babysitting or childcare",
+  "order": 1,
+  "hidden": false
 }
