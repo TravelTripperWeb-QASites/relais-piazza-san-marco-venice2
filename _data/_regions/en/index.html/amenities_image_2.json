@@ -17,9 +17,35 @@
       "url": "https://res.cloudinary.com/traveltripperweb/image/upload/v1539800472/cgg2kfcuvq4tk6dxcyb0.jpg",
       "resource_type": "image",
       "size": 182040,
+      "git_file_name": "_assets/image_data/IMG-0077.json",
       "path": "https://res.cloudinary.com/traveltripperweb/image/upload/v1539800472/cgg2kfcuvq4tk6dxcyb0.jpg",
       "file_size": null,
-      "alt": "Old Family Room"
+      "alt": "Old Family Room",
+      "crop": {
+        "origin": {
+          "x": 129,
+          "y": 0
+        },
+        "width": 483,
+        "height": 750
+      },
+      "croppedImage": {
+        "name": "cgg2kfcuvq4tk6dxcyb0",
+        "file_name": "cgg2kfcuvq4tk6dxcyb0.jpg",
+        "url": "//cdn.qa-traveltripper.info/site-assets/1_21_137/media/2018-10-17-142222/cgg2kfcuvq4tk6dxcyb0.jpg",
+        "tags": "",
+        "description": "",
+        "date_added": "2018-10-17-142222",
+        "file_type": "image/jpeg",
+        "width": 483,
+        "height": 750,
+        "file_size": 96690,
+        "url_large": "//cdn.qa-traveltripper.info/site-assets/1_21_137/media/2018-10-17-142222/large_cgg2kfcuvq4tk6dxcyb0.jpg",
+        "url_medium": "//cdn.qa-traveltripper.info/site-assets/1_21_137/media/2018-10-17-142222/medium_cgg2kfcuvq4tk6dxcyb0.jpg",
+        "url_small": "//cdn.qa-traveltripper.info/site-assets/1_21_137/media/2018-10-17-142222/small_cgg2kfcuvq4tk6dxcyb0.jpg",
+        "url_xsmall": "//cdn.qa-traveltripper.info/site-assets/1_21_137/media/2018-10-17-142222/xsmall_cgg2kfcuvq4tk6dxcyb0.jpg",
+        "url_thumb": "//cdn.qa-traveltripper.info/site-assets/1_21_137/media/2018-10-17-142222/thumb_cgg2kfcuvq4tk6dxcyb0.jpg"
+      }
     },
     "_template": "image"
   }
